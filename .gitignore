@@ -1,0 +1,32 @@
+# Dependencies
+client/node_modules/
+server/.venv/
+server/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+
+# Build / dist
+client/dist/
+client/.vite/
+*.egg-info/
+.eggs/
+
+# Env and secrets
+.env
+.env.local
+*.db
+server/auth.db
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
