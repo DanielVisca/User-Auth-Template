@@ -2,13 +2,6 @@
 
 This doc outlines what to change in the **React app**, **API (FastAPI)**, and **database** to support on the order of **1 million users** and high request volume. It covers bottlenecks, infrastructure choices, and a simple flow.
 
----
-
-## Suggested GitHub repo name
-
-**`react-auth-template`** or **`auth-stack-template`**
-
-- Short, clear, and searchable. Alternatives: `fullstack-auth-scaffold`, `user-auth-template`, `react-fastapi-auth`.
 
 ---
 
